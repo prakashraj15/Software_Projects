@@ -13,6 +13,7 @@ This repository is a **central hub** for all my Software Engineering projects â€
 ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
 
 ### **Frameworks & Tools**
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
